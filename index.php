@@ -15,6 +15,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 
   	<div class="row">
   		<div class="col-md-12">
+      <h1>Kriss test</h1>
 
       <?php include('menu.php'); ?>
       <div class="jumbotron">
